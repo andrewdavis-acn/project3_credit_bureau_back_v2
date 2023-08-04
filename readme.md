@@ -2,12 +2,12 @@
 #### Current Version v0.2
 
 
-## Release Details
+# Release Details
 #### v1.0
-Single User Profile  
-No User Session  
-Database Abstraction Server Files  
+- Single User Profile  
+- No User Session  
+- Database Abstraction Server Files  
 #### v2.0
-Single User Profile  
-No User Session  
-Database Connection  
+- Single User Profile  
+- No User Session  
+- Database Connection  
