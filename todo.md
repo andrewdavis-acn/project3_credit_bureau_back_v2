@@ -1,11 +1,16 @@
 ### In Progress
+    - Read data from a file on the server and send it to the front end using streams
 ### Not Started
-    - Push to Github
     - Containerize appication
     - Credit Endpoint: Build
+        - Stream
     - Credit Endpoint: Test
-    - Credit Data: Create
+    - Credit Data: Create/Finalize
     - Profile Endpoint: Build
+        - Stream
     - Profile Endpoint: Test
-    - Profile Data: Create
+    - Profile Data: Create/Finalize
 ### Complete
+    - Push to GitHub
+### Notes
+    

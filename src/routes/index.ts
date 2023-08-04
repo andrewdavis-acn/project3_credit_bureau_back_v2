@@ -6,7 +6,7 @@ import userCredit from './userCredit';
 const router = express.Router();
 
 router.use('/', home)
-router.use('/user/profile',userProfile)
-router.use('/user/credit',userCredit)
+router.use('/profile',userProfile)
+router.use('/credit',userCredit)
 
 export default router;

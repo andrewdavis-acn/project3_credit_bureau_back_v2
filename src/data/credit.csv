@@ -1,0 +1,6 @@
+first_name,last_name,account_number,report_year_month,month_status,payment_amount,available_credit,total_credit
+Alice,Carter,123456,202101,total_payment,100.00,1000.00,1000.00
+Alice,Carter,123456,202102,minimum_payment,30.00,900.00,1000.00
+Alice,Carter,654321,202101,total_payment,100.00,2000.00,2000.00
+Alice,Carter,654321,202102,custom_payment,100.00,1800.00,2000.00
+Alice,Carter,654321,202012,no_payment,0.00,1000.00,2000.00
