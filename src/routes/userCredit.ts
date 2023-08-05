@@ -31,7 +31,7 @@ router.get('/', (req: Request, res: Response) => {
     */
 
     // Return credit message
-    //res.json({ message: 'User Credit' });
+    res.json({ message: 'User Credit' });
 });
 
 export default router;
